@@ -1,0 +1,33 @@
+.Navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--nav);
+  padding: 4px;
+  margin-top: 8px;
+}
+
+.itens-left strong {
+  font-size: 13px;
+}
+
+.itens-left strong, .itens-left span {
+  margin-left: 5px;
+}
+
+.itens-left img {
+  width: 18px;
+  height: 18px;
+  border: 1px solid #fff;
+}
+
+.itens-left span, .itens-right span {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+@media(max-width: 767px) {
+  .Navbar {
+    margin-top: 0;
+  }
+}

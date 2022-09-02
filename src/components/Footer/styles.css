@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.footer .title, .footer .desc, .footer .search {
+  font-size: 13px;
+  font-weight: 400;
+  padding: 10px;
+}
+
+.footer .desc {
+  font-size: 10px;
+}
+
+.footer .search {
+  color: var(--text-gray);
+}

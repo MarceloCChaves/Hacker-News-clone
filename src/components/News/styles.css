@@ -1,0 +1,46 @@
+.news-container {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  background: var(--list);
+}
+
+.news-container article {
+  padding: 2px;
+}
+
+
+.news-container .news-id, .news-container .news-name {
+  font-size: 13px;
+}
+
+.news-container .news-info, .news-site {
+  font-size: 10px;
+}
+
+.news-container span, .news-container .news-info {
+  font-weight: 400;
+}
+
+.news-info {
+  padding-left: 30px;
+}
+
+.news-container .news-info, .news-container a:visited, .news-site, .news-id {
+  color: var(--text-gray);
+}
+
+.news-more {
+  margin: 10px 30px;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text-gray);
+}
+
+hr {
+  background: var(--nav);
+}
+
+.button-pagination {
+  margin: 8px;
+}
