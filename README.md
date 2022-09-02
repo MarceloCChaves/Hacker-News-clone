@@ -1,7 +1,7 @@
 # Teste Mentorise
 
 ## 🎯 Objetivo
-O objetivo da aplicação é desenvolver uma aplicação em reactjs que atenda as seguintes funcionalidades:
+O objetivo da aplicação é construir um clone simples do Hacker News que atenda as seguintes funcionalidades:
 
 - Eu como usuário gostaria de ver a lista de threads na página inicial com nome e
 quantidade de respostas, paginadas de 20 em 20.
