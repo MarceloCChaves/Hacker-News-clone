@@ -35,7 +35,7 @@ autenticação).
 - Json server
 
 ## 📁 Clonando o Repositório
-- Abra o terminal da sua IDE digitando os comandos seguindo o passo a passo abaixo
+- Abra o terminal da sua IDE e digite os comandos seguindo o passo a passo abaixo
 ```
 git clone https://github.com/MarceloCChaves/Teste-mentorise.git
 npm install
