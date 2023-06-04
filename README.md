@@ -50,6 +50,11 @@ npm start
 yarn server
 ```
 
+## 📄 Feedback final
+[Mentorise_-_Teste_Tecnico_Marcelo.pdf](https://github.com/MarceloCChaves/Teste-mentorise/files/11646506/Mentorise_-_Teste_Tecnico_Marcelo.pdf)
+
+
+
 ## 👨 Autor
 ---
 
